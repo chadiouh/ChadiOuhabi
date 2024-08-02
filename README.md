@@ -1,4 +1,3 @@
-
 # Data Analyst
 
 Analyste de données junior passionné par la résolution de problèmes logiques et possédant de solides bases en techniques d'analyse de données. Désireux de mettre à profit ses compétences dans des environnements collaboratifs, en travaillant avec des équipes internationales sur des projets à fort impact. Motivé par les opportunités d'apprentissage et enthousiaste à l'idée de contribuer à la réalisation des objectifs de l'organisation par le biais d'informations fondées sur des données.
