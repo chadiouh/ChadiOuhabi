@@ -1,13 +1,14 @@
 # Data Analyst
 
+
 Analyste de données junior passionné par la résolution de problèmes logiques et possédant de solides bases en techniques d'analyse de données. Désireux de mettre à profit ses compétences dans des environnements collaboratifs, en travaillant avec des équipes internationales sur des projets à fort impact. Motivé par les opportunités d'apprentissage et enthousiaste à l'idée de contribuer à la réalisation des objectifs de l'organisation par le biais d'informations fondées sur des données.
 
 
 ### Formations
 
-  - Bac+3 Data Analyst
+  - Bac+3 | Data Analyst
     OpenClassRooms - 2024
-  - BTS Négociation et Digitalisation de la Relation Client
+  - BTS | Négociation et Digitalisation de la Relation Client
     CNED - 2021
 
 ### Expériences
