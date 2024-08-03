@@ -24,3 +24,9 @@ Obtenir un jeu de données exploitables à partir des fichiers source, puis réa
 
 <img width="656" alt="Capture d'écran 2024-05-23 183244" src="https://github.com/user-attachments/assets/533771c3-6142-4f3a-9347-5059d42cbfb4">
 
+<img width="360" alt="Capture d'écran 2024-05-23 183734" src="https://github.com/user-attachments/assets/840f5650-702b-427c-97e6-07a0f0e670c2">
+
+<img width="437" alt="corr3" src="https://github.com/user-attachments/assets/5c50d743-28cd-4731-bad0-bf0d71a83ca2">
+
+<img width="520" alt="corr5" src="https://github.com/user-attachments/assets/58d1abe5-96c7-4801-b89e-f5b4b53ba597">
+
