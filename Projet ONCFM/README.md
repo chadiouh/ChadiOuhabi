@@ -1,4 +1,4 @@
-# Projet 10 : Détectez des faux billets avec Python
+# Projet ONCFM : Détectez des faux billets avec Python
 
 
 ## Scénario
