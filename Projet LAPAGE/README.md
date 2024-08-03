@@ -22,4 +22,5 @@ Obtenir un jeu de données exploitables à partir des fichiers source, puis réa
 
 ## Résultats : exemples d'analyses réalisées
 
-<img src='C:\Users\chouh\Desktop\Openclassrooms\Projet 9 - Analyser les vente d'une librairie avec R ou Python\image/Capture d'écran 2024-05-23 183244.png' width=480px />
+<img width="656" alt="Capture d'écran 2024-05-23 183244" src="https://github.com/user-attachments/assets/533771c3-6142-4f3a-9347-5059d42cbfb4">
+
