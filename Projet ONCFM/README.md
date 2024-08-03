@@ -1,4 +1,4 @@
- Projet 10 : Détectez des faux billets avec Python
+# Projet 10 : Détectez des faux billets avec Python
 
 
 ## Scénario
