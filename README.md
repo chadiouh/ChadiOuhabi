@@ -11,7 +11,7 @@ Analyste de données junior passionné par la résolution de problèmes logiques
   - BTS | Négociation et Digitalisation de la Relation Client
     CNED - 2021
 
-### Expériences
+### 👔 Expériences
 
   - Conseiller commerciale
     ODITY - 2023
