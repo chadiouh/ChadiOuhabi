@@ -1,5 +1,3 @@
-![Gold Modern Personal LinkedIn Banner](https://github.com/user-attachments/assets/0481c862-7249-431e-af93-2281c0c7371c)
-
 # Data Analyst
 
 
