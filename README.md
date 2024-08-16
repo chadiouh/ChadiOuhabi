@@ -1,5 +1,3 @@
-![Chadi Ouhabi](https://github.com/user-attachments/assets/4ed179f4-1d72-4431-9dd0-054c2f81b24b)
-
 # Data Analyst
 
 
